@@ -28,7 +28,7 @@ A simple experiment has been conducted showcasing Acrobot's movement under the n
 
 The GIF below displays the movement of Arcbot following the learned policy of the n-step Q-learning.
 
-<p align="center"> <img src="https://github.com/reshalfahsi/rocket-trajectory-optimization/blob/master/assets/qualitative_acrobot.gif" alt="qualitative_acrobot" > <br /> Acrobot's main challenge: set the last link above the horizontal threshold line as quickly as possible. </p>
+<p align="center"> <img src="https://github.com/reshalfahsi/swinging-up-acrobot/blob/master/assets/qualitative_acrobot.gif" alt="qualitative_acrobot" > <br /> Acrobot's main challenge: set the last link above the horizontal threshold line as quickly as possible. </p>
 
 
 ## Credit
